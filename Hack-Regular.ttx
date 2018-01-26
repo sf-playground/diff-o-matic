@@ -1581,13 +1581,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="3.002"/>
-    <checkSumAdjustment value="0x84865c59"/>
+    <fontRevision value="3.001"/>
+    <checkSumAdjustment value="0xedd7661d"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000110"/>
     <unitsPerEm value="2048"/>
     <created value="Mon Oct 23 16:00:00 2017"/>
-    <modified value="Tue Jan 23 13:52:43 2018"/>
+    <modified value="Tue Jan 23 01:00:09 2018"/>
     <xMin value="-954"/>
     <yMin value="-605"/>
     <xMax value="1355"/>
@@ -2319,7 +2319,7 @@
     <mtx name="uni04F9" width="1233" lsb="104"/>
     <mtx name="uni0510" width="1233" lsb="137"/>
     <mtx name="uni0511" width="1233" lsb="169"/>
-    <mtx name="uni051A" width="1233" lsb="114"/>
+    <mtx name="uni051A" width="1233" lsb="117"/>
     <mtx name="uni051B" width="1233" lsb="132"/>
     <mtx name="uni051C" width="1233" lsb="0"/>
     <mtx name="uni051D" width="1233" lsb="0"/>
@@ -12944,7 +12944,7 @@
       </instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni0051" xMin="114" yMin="-350" xMax="1202" yMax="1520">
+    <TTGlyph name="uni0051" xMin="114" yMin="-270" xMax="1125" yMax="1520">
       <contour>
         <pt x="655" y="-27" on="1"/>
         <pt x="650" y="-27" on="0"/>
@@ -12967,8 +12967,8 @@
         <pt x="1015" y="184" on="0"/>
         <pt x="911" y="56" on="0"/>
         <pt x="840" y="20" on="1"/>
-        <pt x="1202" y="-350" on="1"/>
-        <pt x="966" y="-350" on="1"/>
+        <pt x="1125" y="-270" on="1"/>
+        <pt x="889" y="-270" on="1"/>
       </contour>
       <contour>
         <pt x="616" y="135" on="1"/>
@@ -43846,55 +43846,50 @@
       </instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni051A" xMin="114" yMin="-350" xMax="1202" yMax="1520">
+    <TTGlyph name="uni051A" xMin="117" yMin="-270" xMax="1116" yMax="1520">
       <contour>
         <pt x="655" y="-27" on="1"/>
-        <pt x="650" y="-27" on="0"/>
-        <pt x="620" y="-29" on="0"/>
-        <pt x="617" y="-29" on="1"/>
-        <pt x="368" y="-35" on="0"/>
-        <pt x="114" y="362" on="0"/>
-        <pt x="117" y="745" on="1"/>
-        <pt x="117" y="1138" on="0"/>
-        <pt x="241" y="1328" on="1"/>
-        <pt x="366" y="1520" on="0"/>
-        <pt x="616" y="1520" on="1"/>
-        <pt x="739" y="1520" on="0"/>
-        <pt x="929" y="1428" on="0"/>
-        <pt x="993" y="1328" on="1"/>
-        <pt x="1116" y="1136" on="0"/>
-        <pt x="1116" y="745" on="1"/>
-        <pt x="1116" y="453" on="0"/>
-        <pt x="1048" y="272" on="1"/>
-        <pt x="1015" y="184" on="0"/>
-        <pt x="911" y="56" on="0"/>
+        <pt x="649" y="-27" on="0"/>
+        <pt x="621" y="-29" on="0"/>
+        <pt x="620" y="-29" on="1"/>
+        <pt x="117" y="-29" on="0"/>
+        <pt x="117" y="747" on="1"/>
+        <pt x="117" y="1520" on="0"/>
+        <pt x="617" y="1520" on="1"/>
+        <pt x="1116" y="1520" on="0"/>
+        <pt x="1116" y="744" on="1"/>
+        <pt x="1116" y="163" on="0"/>
         <pt x="840" y="20" on="1"/>
-        <pt x="1202" y="-350" on="1"/>
-        <pt x="966" y="-350" on="1"/>
+        <pt x="1040" y="-170" on="1"/>
+        <pt x="889" y="-270" on="1"/>
       </contour>
       <contour>
         <pt x="616" y="135" on="1"/>
-        <pt x="770" y="135" on="0"/>
-        <pt x="838" y="276" on="1"/>
-        <pt x="905" y="413" on="0"/>
-        <pt x="905" y="745" on="1"/>
-        <pt x="905" y="1077" on="0"/>
-        <pt x="838" y="1215" on="1"/>
-        <pt x="770" y="1356" on="0"/>
-        <pt x="616" y="1356" on="1"/>
-        <pt x="464" y="1356" on="0"/>
-        <pt x="396" y="1215" on="1"/>
-        <pt x="328" y="1071" on="0"/>
+        <pt x="699" y="135" on="0"/>
+        <pt x="806" y="209" on="0"/>
+        <pt x="838" y="277" on="1"/>
+        <pt x="870" y="343" on="0"/>
+        <pt x="905" y="566" on="0"/>
+        <pt x="905" y="747" on="1"/>
+        <pt x="905" y="927" on="0"/>
+        <pt x="868" y="1148" on="0"/>
+        <pt x="837" y="1215" on="1"/>
+        <pt x="768" y="1356" on="0"/>
+        <pt x="617" y="1356" on="1"/>
+        <pt x="463" y="1356" on="0"/>
+        <pt x="396" y="1214" on="1"/>
+        <pt x="328" y="1070" on="0"/>
         <pt x="328" y="745" on="1"/>
-        <pt x="328" y="420" on="0"/>
-        <pt x="396" y="276" on="1"/>
-        <pt x="464" y="135" on="0"/>
+        <pt x="328" y="417" on="0"/>
+        <pt x="396" y="277" on="1"/>
+        <pt x="429" y="207" on="0"/>
+        <pt x="536" y="135" on="0"/>
       </contour>
       <instructions>
         <assembly>
-          NPUSHB[ ]	/* 47 values pushed */
-          20 1 0 3 1 74 0 2 0 2 132 0 4 4 1 95 0 1 1 57 75 5 1 3 3
-          0 95 0 0 0 58 0 76 24 23 32 30 23 38 24 38 26 37 64 6 8 23
+          NPUSHB[ ]	/* 46 values pushed */
+          11 1 0 2 1 74 13 12 2 0 71 0 3 3 1 95 0 1 1 57 75 4 1 2 2
+          0 95 0 0 0 58 0 76 15 14 26 24 14 33 15 33 34 64 5 8 22
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -86394,7 +86389,7 @@
       Hack Regular
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 3.002;[58e14237f]-dev
+      Version 3.001;[50c08ef1e]-release
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Hack-Regular

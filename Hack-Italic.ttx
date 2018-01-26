@@ -1607,13 +1607,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="3.002"/>
-    <checkSumAdjustment value="0x1ecc2393"/>
+    <fontRevision value="3.001"/>
+    <checkSumAdjustment value="0x85efedb3"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000110"/>
     <unitsPerEm value="2048"/>
     <created value="Mon Oct 23 16:00:00 2017"/>
-    <modified value="Tue Jan 23 13:52:43 2018"/>
+    <modified value="Tue Jan 23 01:00:09 2018"/>
     <xMin value="-1500"/>
     <yMin value="-767"/>
     <xMax value="1522"/>
@@ -13210,7 +13210,7 @@
       </instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni0051" xMin="82" yMin="-350" xMax="1151" yMax="1520">
+    <TTGlyph name="uni0051" xMin="82" yMin="-270" xMax="1151" yMax="1520">
       <contour>
         <pt x="504" y="-27" on="1"/>
         <pt x="494" y="-27" on="1"/>
@@ -13252,8 +13252,8 @@
         <pt x="808" y="81" on="0"/>
         <pt x="733" y="27" on="0"/>
         <pt x="690" y="10" on="1"/>
-        <pt x="990" y="-350" on="1"/>
-        <pt x="754" y="-350" on="1"/>
+        <pt x="926" y="-270" on="1"/>
+        <pt x="690" y="-270" on="1"/>
       </contour>
       <contour>
         <pt x="498" y="135" on="1"/>
@@ -47799,89 +47799,63 @@
       </instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni051A" xMin="82" yMin="-350" xMax="1151" yMax="1520">
+    <TTGlyph name="uni051A" xMin="82" yMin="-270" xMax="1151" yMax="1520">
       <contour>
         <pt x="504" y="-27" on="1"/>
         <pt x="494" y="-27" on="1"/>
-        <pt x="278" y="-27" on="0"/>
-        <pt x="82" y="210" on="0"/>
-        <pt x="82" y="472" on="1"/>
-        <pt x="82" y="538" on="0"/>
-        <pt x="93" y="649" on="0"/>
-        <pt x="104" y="712" on="1"/>
-        <pt x="114" y="774" on="0"/>
-        <pt x="142" y="893" on="0"/>
-        <pt x="168" y="975" on="1"/>
-        <pt x="184" y="1025" on="0"/>
-        <pt x="214" y="1103" on="0"/>
-        <pt x="231" y="1141" on="1"/>
-        <pt x="244" y="1170" on="0"/>
-        <pt x="285" y="1246" on="0"/>
-        <pt x="303" y="1272" on="1"/>
-        <pt x="341" y="1329" on="0"/>
-        <pt x="442" y="1428" on="0"/>
-        <pt x="501" y="1460" on="1"/>
+        <pt x="283" y="-27" on="0"/>
+        <pt x="82" y="208" on="0"/>
+        <pt x="82" y="457" on="1"/>
+        <pt x="82" y="587" on="0"/>
+        <pt x="129" y="857" on="0"/>
+        <pt x="167" y="975" on="1"/>
+        <pt x="197" y="1069" on="0"/>
+        <pt x="267" y="1217" on="0"/>
+        <pt x="304" y="1272" on="1"/>
+        <pt x="389" y="1400" on="0"/>
         <pt x="611" y="1520" on="0"/>
-        <pt x="753" y="1520" on="1"/>
-        <pt x="956" y="1520" on="0"/>
-        <pt x="1054" y="1397" on="1"/>
-        <pt x="1151" y="1276" on="0"/>
-        <pt x="1151" y="1029" on="1"/>
-        <pt x="1151" y="932" on="0"/>
-        <pt x="1123" y="745" on="0"/>
-        <pt x="1094" y="629" on="1"/>
-        <pt x="1080" y="576" on="0"/>
-        <pt x="1047" y="468" on="0"/>
-        <pt x="1032" y="427" on="1"/>
-        <pt x="1000" y="340" on="0"/>
-        <pt x="963" y="274" on="1"/>
-        <pt x="941" y="235" on="0"/>
-        <pt x="880" y="150" on="0"/>
-        <pt x="839" y="111" on="1"/>
-        <pt x="808" y="81" on="0"/>
-        <pt x="733" y="27" on="0"/>
+        <pt x="751" y="1520" on="1"/>
+        <pt x="1151" y="1520" on="0"/>
+        <pt x="1151" y="1040" on="1"/>
+        <pt x="1151" y="944" on="0"/>
+        <pt x="1121" y="734" on="0"/>
+        <pt x="1095" y="629" on="1"/>
+        <pt x="1066" y="515" on="0"/>
+        <pt x="997" y="339" on="0"/>
+        <pt x="962" y="275" on="1"/>
+        <pt x="904" y="170" on="0"/>
+        <pt x="768" y="44" on="0"/>
         <pt x="690" y="10" on="1"/>
-        <pt x="990" y="-350" on="1"/>
-        <pt x="754" y="-350" on="1"/>
+        <pt x="844" y="-178" on="1"/>
+        <pt x="690" y="-270" on="1"/>
       </contour>
       <contour>
-        <pt x="498" y="135" on="1"/>
-        <pt x="589" y="135" on="0"/>
-        <pt x="660" y="186" on="1"/>
-        <pt x="700" y="215" on="0"/>
-        <pt x="757" y="291" on="0"/>
-        <pt x="778" y="331" on="1"/>
-        <pt x="816" y="403" on="0"/>
-        <pt x="878" y="595" on="0"/>
-        <pt x="898" y="684" on="1"/>
-        <pt x="921" y="787" on="0"/>
-        <pt x="944" y="986" on="0"/>
-        <pt x="944" y="1067" on="1"/>
-        <pt x="944" y="1153" on="0"/>
-        <pt x="918" y="1256" on="0"/>
-        <pt x="892" y="1289" on="1"/>
-        <pt x="837" y="1356" on="0"/>
+        <pt x="497" y="135" on="1"/>
+        <pt x="619" y="135" on="0"/>
+        <pt x="770" y="296" on="0"/>
+        <pt x="825" y="437" on="1"/>
+        <pt x="861" y="531" on="0"/>
+        <pt x="914" y="751" on="0"/>
+        <pt x="944" y="968" on="0"/>
+        <pt x="944" y="1060" on="1"/>
+        <pt x="944" y="1192" on="0"/>
+        <pt x="859" y="1356" on="0"/>
         <pt x="734" y="1356" on="1"/>
-        <pt x="642" y="1356" on="0"/>
-        <pt x="572" y="1305" on="1"/>
-        <pt x="504" y="1254" on="0"/>
-        <pt x="455" y="1160" on="1"/>
-        <pt x="382" y="1022" on="0"/>
-        <pt x="333" y="808" on="1"/>
-        <pt x="310" y="708" on="0"/>
-        <pt x="287" y="513" on="0"/>
-        <pt x="287" y="429" on="1"/>
-        <pt x="287" y="340" on="0"/>
-        <pt x="314" y="237" on="0"/>
-        <pt x="340" y="203" on="1"/>
-        <pt x="369" y="167" on="0"/>
-        <pt x="450" y="135" on="0"/>
+        <pt x="636" y="1356" on="0"/>
+        <pt x="505" y="1252" on="0"/>
+        <pt x="455" y="1159" on="1"/>
+        <pt x="405" y="1066" on="0"/>
+        <pt x="329" y="809" on="0"/>
+        <pt x="287" y="542" on="0"/>
+        <pt x="287" y="432" on="1"/>
+        <pt x="287" y="293" on="0"/>
+        <pt x="375" y="135" on="0"/>
       </contour>
       <instructions>
         <assembly>
-          NPUSHB[ ]	/* 49 values pushed */
-          39 1 0 3 1 74 0 2 0 2 132 0 4 4 1 95 0 1 1 56 75 5 1 3 3
-          0 95 0 0 0 57 0 76 43 42 59 57 42 72 43 72 41 40 22 20 32 6 8 21
+          NPUSHB[ ]	/* 46 values pushed */
+          24 1 0 2 1 74 26 25 2 0 71 0 3 3 1 95 0 1 1 56 75 4 1 2 2
+          0 95 0 0 0 57 0 76 28 27 38 36 27 46 28 46 42 32 5 8 22
           CALL[ ]	/* CallFunction */
         </assembly>
       </instructions>
@@ -90269,7 +90243,7 @@
       Hack Italic
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 3.002;[58e14237f]-dev
+      Version 3.001;[50c08ef1e]-release
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Hack-Italic
